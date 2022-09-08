@@ -1,16 +1,12 @@
-# untitled5
+I have built this app using the News API from newsapi.org website and used to complete the given task
 
-A new Flutter project.
+Here are some points before using the app effectively:
 
-## Getting Started
+1. The app won't show news on the college lan as the API will never work due to kind restrictions by the respected server room of our college ;).
+2. Search Bar is implemented and working 
+3. Special Note is that a stable internet connection is a must in order to get the API working properly . 
+4. Webview is working as tested on several mobile phones.
+5. Android version less than 3 years can have some unstable behaviour 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks for Checking this out :) .
